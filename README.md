@@ -7,7 +7,7 @@ Repository Laporan Praktikum Struktur Data Felix Pedrosa Valentino S1IF-12-01
   <p><i>Repository for Academic Excellence</i></p>
   
   ![Telkom University](https://img.shields.io/badge/Telkom-University-red)
-  ![Course](https://img.shields.io/badge/Course-Struktur Data-blue)
+  ![Course](https://img.shields.io/badge/Course-Struktur-Data-blue)
   ![Class](https://img.shields.io/badge/Class-IF--12--01-green)
 </div>
 
